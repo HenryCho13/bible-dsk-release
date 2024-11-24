@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Bible DSK</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sun, 24 Nov 2024 09:33:33 -0500</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/HenryCho13/bible-dsk-releases/releases/download/prod/bible_dsk-1.0.0+1-macos.dmg" length="36640941" type="application/octet-stream" sparkle:edSignature="vZkC3KCGvtnruQlUEWAy+pWJ/YWOjbDJc4Jtx0V2GzJ/2q0J+HOUR89JSDhqPzwcj2V1UeBuwT1s+3RkFLhBAg=="/>
+        </item>
+    </channel>
+</rss>
