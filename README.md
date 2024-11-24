@@ -1,1 +1,1 @@
-# bible-dsk-release
+# bible-dsk-releases
