@@ -1,14 +1,30 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>Bible DSK</title>
+        <description>Most recent updates to Bible DSK</description>
+        <language>en</language>
         <item>
-            <title>1.1.0</title>
-            <pubDate>Sun, 24 Nov 2024 14:03:08 -0500</pubDate>
-            <sparkle:version>1.1.0</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/HenryCho13/bible-dsk-releases/releases/download/prod/bible_dsk-1.1.0+1.1.0-macos.dmg" length="36640927" type="application/octet-stream" sparkle:edSignature="ywBoQxdWrCA4+xZjWuLaHDOWleKhA0o7+hDeBQvByEfskirb+/78THMN/Y+RWpID7MFImx6rbXtClsE0quFFCQ=="/>
+            <title>Version 1.2.0</title>
+            <!-- For the macOS item, it is recommended to add 'sparkle:version' and 'sparkle:shortVersionString' to the item node, rather than as part of the enclosure. -->
+            <sparkle:version>1.2.0</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <pubDate>Wed, 04 Dec 2024 12:00:00 +0800</pubDate>
+            <enclosure url="https://github.com/HenryCho13/bible-dsk-releases/releases/download/prod/bible_dsk-1.2.0+1.2.0-macos.dmg"
+                       sparkle:edSignature="XOAHAFdhCdy7JyPYz4QTEhf1JyazLFhrUExouX9VL0MHm1un33/Ug3uBVViRPxCy2tBxpBGmFkBudkeTqKn6Cg=="
+                       sparkle:os="macos"
+                       length="36727818"
+                       type="application/octet-stream" />
+        </item>
+        <item>
+            <title>Version 1.2.0</title>
+            <pubDate>Wed, 04 Dec 2024 12:00:00 +0800</pubDate>
+            <enclosure url="https://github.com/HenryCho13/bible-dsk-releases/releases/download/prod/bible_dsk_installer.exe"
+                       sparkle:dsaSignature="MDwCHAMxOUe/5Lgfvv1f9AVk+jI/ePptod14S6MbnSgCHBwf6efnVGK/QvNrvW6hJQ3tS0bCqCGVp9lZNfU="
+                       sparkle:version="1.2.0"
+                       sparkle:os="windows"
+                       length="0"
+                       type="application/octet-stream" />
         </item>
     </channel>
 </rss>
